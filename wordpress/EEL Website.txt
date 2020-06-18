@@ -1,0 +1,18 @@
+1. Go to http://www.eel-bd.com/ -Main website
+
+2. Go to http://www.eel-bd.com/admin - Admin Panel For the website.
+
+3. User Name : admin
+   Password : eclit@os
+
+4. There is a option Portfolios on the left side.
+	1.Add new : this option will add a new picture to the portfolio section.
+		a. Select add new : a new page will open.
+		b. Add New Post : Title input field.
+		c. Project Type :  Select Complete projects / On going projects.
+		d. Featured Image : Click on set featured image then upload files. Select an image file 		   and then click on Set featured image.
+		Then publish it. 
+	Now go to the website and view if the picture was uploaded or not.
+5. If you want to edit something then go to the Portfolios and click on the title. Then Edit it.
+
+6. There are some other option in EEL Options menu to edit the Logo, Footer Content, About Section, MD      image, name, designation, and description.
